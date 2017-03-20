@@ -2,10 +2,6 @@ import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
 plt.show()
-
-
-
-
 ![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/figure_1.png)
 
 '''You may be wondering why the
