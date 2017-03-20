@@ -2,6 +2,16 @@ import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
 plt.show()
+
+/home/wanglong/github/plot-tutorial/figure_1.png
+
+
+
+
+
+
+
+
 '''You may be wondering why the
 x-axis ranges from 0-3 and the y-axis from 1-4. If you provide a single list or array to the plot()
  command, matplotlib assumes it is a sequence of y values, and automatically generates the x values for you.
