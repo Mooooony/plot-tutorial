@@ -5,4 +5,4 @@ The tutorial of plot using Python
 
 ![description?](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/multi-figures.png)
 
-i[image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/histogram.png)
+![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/histogram.png)
