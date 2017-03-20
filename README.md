@@ -9,4 +9,4 @@ The tutorial of plot using Python
 
 ![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/annotating.png)
 
-i[image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/nonLinear.png)
+![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/nonLinear.png)
