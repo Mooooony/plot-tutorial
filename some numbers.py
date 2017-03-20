@@ -3,14 +3,10 @@ plt.plot([1,2,3,4])
 plt.ylabel('some numbers')
 plt.show()
 
-/home/wanglong/github/plot-tutorial/figure_1.png
 
 
 
-
-
-
-
+![image]/home/wanglong/github/plot-tutorial/figure_1.png
 
 '''You may be wondering why the
 x-axis ranges from 0-3 and the y-axis from 1-4. If you provide a single list or array to the plot()
