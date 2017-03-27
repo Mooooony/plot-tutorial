@@ -1,6 +1,8 @@
 # plot-tutorial
 The tutorial of plot using Python
 
+![sigmod](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/sigmod.png)
+
 ![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/some-numbers.png)
 
 ![description?](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/multi-figures.png)
