@@ -3,6 +3,8 @@ The tutorial of plot using Python
 
 ![sigmod](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/sigmod.png)
 
+![axis and axes](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/axis%20and%20axes.png)
+
 ![image](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/some-numbers.png)
 
 ![description?](https://github.com/Mooooony/plot-tutorial/blob/master/pictures/multi-figures.png)
