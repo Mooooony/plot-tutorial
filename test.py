@@ -1,18 +1,21 @@
+import numpy as np
 import matplotlib.pyplot as plt
-plt.figure(1)                # the first figure
-plt.subplot(211)             # the first subplot in the first figure
-plt.plot([1, 2, 3])
-plt.subplot(212)             # the second subplot in the first figure
-plt.plot([4, 5, 6])
 
+#plt.style.use('mystyle')
+# set the size of canvas
+fig=plt.figure(figsize=(4,4))
+ax=fig.add_subplot(111)
 
-plt.figure(2)                # a second figure
-plt.plot([4, 5, 6])   # creates a subplot(111) by default
-plt.title("The second picture")
-plt.axes([1,1,6,9])
+ax.spines['top'].set_color('none')
+ax.spines['right'].set_color('none')
 
-plt.figure(1)                # figure 1 current; subplot(212) still current
-plt.subplot(211)             # make subplot(211) in figure1 current
-plt.title('Easy as 1, 2, 3') # subplot 211 title
+ax.xaxis.set_ticks_position('bottom')
+ax.spines['bottom'].set_position(('data',0))
+ax.yaxis.set_ticks_position('left')
+ax.spines['left'].set_position(('data',0))
+
+theta=np.arange(0,2*np.pi,2*np.pi/100)
+x=np.cos(theta)
+y=np.sin(theta)
+ax.plot(x,y)
 plt.show()
-plt.close()
