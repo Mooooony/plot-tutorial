@@ -1,3 +1,4 @@
+# a step function equals the sum of many sin function
 import numpy as np
 import matplotlib.pyplot as plt
 
